@@ -1,5 +1,5 @@
 # Uber_Fare_Predictor
-A ML notebook for predicting the fare price for uber dataset. Here dataset is taken from kaggle [Kaggle Uber dataset](https://www.kaggle.com/yasserh/uber-fares-dataset)
+A ML algorithm for predicting the fare price for uber dataset. Here dataset is taken from kaggle [Kaggle Uber dataset](https://www.kaggle.com/yasserh/uber-fares-dataset)
 The dataset contains columns like 
 
 1.key - a unique identifier for each trip
